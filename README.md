@@ -7,6 +7,7 @@ Erste Änderungen: bla bla bla  blu blu
 Zweite Änderung aus IDEA with bug-fix added.
 
 Weitere Änderung!
+Und noch eine Änderung!!!!
 
 bla bla  more bla bla
 xxxxxxx
