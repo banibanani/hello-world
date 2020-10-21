@@ -1,7 +1,7 @@
 # hello-world
 Mein Test repo
 
-Erste Änderungen: bla bla bla
+Erste Änderungen: bla bla bla  new-branch-name
 
 
 Zweite Änderung aus IDEA
