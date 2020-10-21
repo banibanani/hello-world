@@ -4,7 +4,7 @@ Mein Test repo
 Erste Änderungen: bla bla bla
 
 
-Zweite Änderung aus IDEA
+Zweite Änderung aus IDEA with bug-fix added.
 
 Weitere Änderung!
 
