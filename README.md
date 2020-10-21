@@ -20,3 +20,4 @@ this is a new line from my feature-branch-name.
 bug-fix2 bla
 This will advance our new branch.
 This as well will advance our new branch.
+Line for feature2.
